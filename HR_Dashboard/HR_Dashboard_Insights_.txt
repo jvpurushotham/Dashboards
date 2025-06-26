@@ -1,0 +1,24 @@
+Insights from HR Dashboard
+
+- The current headcount is 104, with an attrition rate of 33.4%, indicating significant turnover concerns.
+- The average salary is $69K, and the average employee age is 46.41 years, suggesting a mid-career workforce.
+- Production and IT/IS departments have the highest employee counts, while Sales and Admin Offices have fewer.
+- A majority of employees fall into the 36–45 age bucket (49.2%), followed by 46–55 (31.5%), reflecting an aging workforce.
+- Indeed and LinkedIn are the top recruitment sources, while employee referrals and career fairs have lower contribution.
+- Executive Office shows the highest average salary (~$250K), followed by Software Engineering (~$94.99K) and IT/IS (~$97.06K).
+- Yearly attrition and terminations show fluctuating patterns, with notable spikes correlating with higher salary brackets.
+
+Actionable Insights for Organizational HR Strategy:
+
+High Attrition Alert:
+With an attrition rate of 33.4%, nearly 1 in 3 employees is expected to leave the organization. This suggests the need for deeper analysis into exit reasons, job satisfaction, and retention strategies.
+Workforce Demographics:
+The average employee age is 46.41 years, and over 80% of the workforce is aged 36 and above. This indicates a mature and experienced team, but also a potential risk of future retirements and succession planning needs.
+Departmental Dynamics:
+Production and IT/IS departments have the highest headcounts. Targeted retention programs in these departments could significantly reduce overall attrition impact.
+Recruitment Sources Efficiency:
+Most hires are sourced from Indeed and LinkedIn, showing the effectiveness of online recruitment. However, employee referrals and job fairs are underutilized and may be improved to diversify hiring channels.
+Salary & Retention Link:
+Departments like Executive Office and Software Engineering, which offer higher average salaries, show lower attrition. This correlation suggests that competitive compensation may enhance employee retention.
+Attrition Trend Monitoring:
+Yearly termination and attrition trends reveal fluctuations that can be tied to salary dissatisfaction or career stagnation. Regular trend analysis can help predict and mitigate future turnover spikes.

@@ -1,0 +1,29 @@
+Insights from Sales_Dashboard
+
+- The total sales amount is ₹220K, generated from 1,706 orders, with a profit of ₹26K and an average order value of ₹61K.
+- Clothing dominates sales volume with 46.6% of total quantity, followed by Electronics (32.42%) and Furniture (20.98%).
+- Cash on Delivery (COD) is the most used payment method (39.39%), while UPI, Debit Card, and Credit Card contribute moderately.
+- Maharashtra leads in sales by state, followed by Madhya Pradesh, Rajasthan, and Gujarat.
+- Top customers include Bhishm, Sheetal, Ishpreet, and Bharat, with Bhishm generating the highest revenue.
+- Sub-categories like Printers, Bookcases, and Sarees are the most profitable.
+- The profit trend peaks in April and December, while January and March show negative or minimal profit.
+
+Actionable Insights for Organisation:
+
+- Clothing & Electronics Drive Sales:
+  Investing in promotions or inventory expansion in these categories can maximize returns due to their high demand.
+
+- Optimise Payment Strategy:
+  Since COD dominates, encouraging digital payments with incentives (like discounts for UPI) may reduce risk and improve cash flow.
+
+- Geographic Focus:
+  With Maharashtra and nearby states leading in sales, region-specific campaigns and faster delivery options can further boost performance.
+
+- Customer Retention:
+  High-spending customers like Bhishm and Sheetal are valuable. Consider targeted loyalty programs or exclusive offers to retain them.
+
+- Seasonal Profit Trends:
+  Profit peaks in April and December suggest opportunities to plan major sales events or ad campaigns in these months.
+
+- Sub-Category Investment:
+  Boost stock and marketing for high-profit sub-categories like Printers, Bookcases, and Accessories for greater profitability.
